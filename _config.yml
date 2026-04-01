@@ -36,10 +36,6 @@ nav_links:
       - 'https://gather.town/app/08JrjeqAUXtva4uL/data-100-su21-oh'
     
 aux_links:
-  # 'Kevin Lin':
-  #   - 'https://kevinl.info'
-  # 'Just the Class on GitHub':
-  #   - 'https://github.com/kevinlin1/just-the-class'
 footer: >-
   Powered by <a href="https://github.com/kevinlin1/just-the-class">Just the Class</a>
 
@@ -65,3 +61,10 @@ defaults:
       type: staffers
     values:
       layout: staffer
+
+callouts:
+  highlight:
+    color: yellow
+  warning:
+    title: Warning
+    color: red
